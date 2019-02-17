@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "movie.css",
+	"sources": [
+		"movie.sass"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,IAAI;EACb,IAAI,EAAE,kDAAkD,GAAG;;AAE7D,AAAA,CAAC,CAAC;EACA,KAAK,EAAE,OAAO,GAAG;;AAEnB,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,OAAO,GAAG;;AAErB,AAAA,CAAC,CAAC;EACE,aAAa,EAAE,IAAI,GAAG"
+}
